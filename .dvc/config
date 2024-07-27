@@ -1,0 +1,4 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = C:\Users\manoj\AppData\Local\Temp\mcmano-dvc-storage
